@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.d82ef7e8.js",
+    "static/js/453.7ee4257d.chunk.js": "/static/js/453.7ee4257d.chunk.js",
+    "static/media/ersalpay-laptop-screen.png": "/static/media/ersalpay-laptop-screen.700f187bda15e36eaacf.png",
+    "static/media/application-security.png": "/static/media/application-security.0f55fd514413fb34558a.png",
+    "static/media/svg-1.svg": "/static/media/svg-1.c9c88a21e91731441defcbe4fd28df2c.svg",
+    "static/media/svg-2.svg": "/static/media/svg-2.882a2cd55b0d7b00d26fa8b75df947a2.svg",
+    "static/media/signup-photo.jpg": "/static/media/signup-photo.2d9eba7b0d5aac7c7405.jpg",
+    "static/media/stock-business-growth.gif": "/static/media/stock-business-growth.98594b865352fca62cb2.gif",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.d82ef7e8.js.map": "/static/js/main.d82ef7e8.js.map",
+    "453.7ee4257d.chunk.js.map": "/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d82ef7e8.js"
+  ]
+}
