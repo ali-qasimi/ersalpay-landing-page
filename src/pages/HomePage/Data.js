@@ -47,7 +47,8 @@ export const homeObjOne = {
     imgStart: 'start',
     img: require('../../images/stock-business-growth.gif'),
     alt: 'Vault',
-    start: 'true'
+    start: 'true',
+    route: '/features'
   };
   
   export const homeObjFour = {
