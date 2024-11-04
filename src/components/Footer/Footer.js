@@ -83,7 +83,7 @@ function Footer() {
           <SocialLogo to='/'>
             <img
               src={ErsalPayLogo}
-              className="d-inline-block align-top me-3"
+              className="ersalpay-header-logo"
               alt="ErsalPay Logo"
             />
             ErsalPay

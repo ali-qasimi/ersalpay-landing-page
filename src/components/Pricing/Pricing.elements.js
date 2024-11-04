@@ -48,9 +48,7 @@ export const PricingCard = styled(Link)`
   height: 250px;
   text-decoration: none;
   border-radius: 4px;
-  &:nth-child(2) {
-    margin: 24px;
-  }
+  margin: 12px;
   &:hover {
     transform: scale(1.06);
     transition: all 0.3s ease-out;

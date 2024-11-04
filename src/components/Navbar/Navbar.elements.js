@@ -35,7 +35,7 @@ export const NavLogo = styled(Link)`
 `
 
 export const NavIcon = styled(FaMagento)`
-    margin-right: 0.5rem;
+    margin-right: 20px !important;
 
 `
 

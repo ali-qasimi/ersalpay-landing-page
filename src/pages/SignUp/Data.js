@@ -10,7 +10,7 @@ export const homeObjOne = {
     buttonLabel: '0470324601',
     imgStart: '',
     img: require('../../images/signup-photo.jpg'),
-    alt: 'Credit Card'
+    alt: 'Sign Up Photo'
   };
   
   export const homeObjTwo = {
