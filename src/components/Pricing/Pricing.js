@@ -45,7 +45,7 @@ import {
         <PricingWrapper>
           <PricingHeading>Key Features</PricingHeading>
           <PricingContainer>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='#'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <FaAddressCard />
@@ -55,7 +55,7 @@ import {
                 </PricingCardFeatures>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='#'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <BsCurrencyExchange />
@@ -65,7 +65,7 @@ import {
                 </PricingCardFeatures>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='#'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <BiSolidBank />
@@ -77,17 +77,7 @@ import {
             </PricingCard>
           </PricingContainer>
           <PricingContainer>
-            <PricingCard to='/sign-up'>
-              <PricingCardInfo>
-                <PricingCardIcon>
-                  <IoReceipt />
-                </PricingCardIcon>
-                <PricingCardPlan>Instant printable receipts with Whatsapp & email integration</PricingCardPlan>
-                <PricingCardFeatures>
-                </PricingCardFeatures>
-              </PricingCardInfo>
-            </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='#'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <BsGraphUp />
@@ -97,7 +87,29 @@ import {
                 </PricingCardFeatures>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='#'>
+              <PricingCardInfo>
+                <PricingCardIcon>
+                  <BsWalletFill />
+                </PricingCardIcon>
+                <PricingCardPlan>Digital Wallets to track cashflows in all currencies</PricingCardPlan>
+                <PricingCardFeatures>
+                </PricingCardFeatures>
+              </PricingCardInfo>
+            </PricingCard>
+            <PricingCard to='#'>
+              <PricingCardInfo>
+                <PricingCardIcon>
+                  <IoReceipt />
+                </PricingCardIcon>
+                <PricingCardPlan>Instant printable receipts with Whatsapp & email integration</PricingCardPlan>
+                <PricingCardFeatures>
+                </PricingCardFeatures>
+              </PricingCardInfo>
+            </PricingCard>
+          </PricingContainer>
+          <PricingContainer>
+          <PricingCard to='#'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <BsCash />
@@ -107,9 +119,7 @@ import {
                 </PricingCardFeatures>
               </PricingCardInfo>
             </PricingCard>
-          </PricingContainer>
-          <PricingContainer>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='#'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <BsCloudDownloadFill />
@@ -119,7 +129,7 @@ import {
                 </PricingCardFeatures>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='#'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <MdDashboardCustomize />
@@ -129,7 +139,9 @@ import {
                 </PricingCardFeatures>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+          </PricingContainer>
+          <PricingContainer>
+            <PricingCard to='#'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <MdConnectWithoutContact />
